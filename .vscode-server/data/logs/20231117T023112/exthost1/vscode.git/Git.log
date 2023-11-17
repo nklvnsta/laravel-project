@@ -1,0 +1,4 @@
+2023-11-17 02:31:27.564 [info] Уровень ведения журнала: Info
+2023-11-17 02:31:27.564 [info] Проверка найденного Git в: "git"
+2023-11-17 02:31:27.564 [warning] Unable to find git. Error: spawn git ENOENT
+2023-11-17 02:31:27.564 [warning] Git installation not found.

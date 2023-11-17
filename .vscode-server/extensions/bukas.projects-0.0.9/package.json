@@ -1,0 +1,110 @@
+{
+	"name": "projects",
+	"displayName": "projects",
+	"description": "easily switch between projects",
+	"version": "0.0.9",
+	"publisher": "bukas",
+	"engines": {
+		"vscode": "^1.6.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"project",
+		"folder",
+		"switch",
+		"manage"
+	],
+	"homepage": "https://github.com/huanz/vscode-projects/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/huanz/vscode-projects.git"
+	},
+	"bugs": {
+		"url": "https://github.com/huanz/vscode-projects/issues"
+	},
+	"icon": "images/projects.png",
+	"activationEvents": [
+		"*"
+	],
+	"main": "./out/src/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "projects.list",
+				"title": "Projects: List Projects to Open"
+			},
+			{
+				"command": "projects.reload",
+				"title": "Projects: Reload Projects Location"
+			},
+			{
+				"command": "projects.create",
+				"title": "Projects: Create empty Project"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Projects Configuration",
+			"properties": {
+				"projects.projectsLocation": {
+					"type": [
+						"string",
+						"array"
+					],
+					"default": "projects",
+					"description": "Indicates an alternative projects location"
+				},
+				"projects.showProjectNameInStatusBar": {
+					"type": "boolean",
+					"default": true,
+					"description": "Should display the project name in the Status Bar?"
+				},
+				"projects.openInNewWindow": {
+					"type": "boolean",
+					"default": true,
+					"description": "Should the project be opened using a New Window?"
+				},
+				"projects.ignoredFolders": {
+					"type": "array",
+					"default": [
+						"node_modules"
+					],
+					"description": "Indicates folders to be ignored, like \"node_modules\", \"out\", \"typings\", \"test\""
+				}
+			}
+		},
+		"keybindings": [
+			{
+				"command": "projects.list",
+				"key": "shift+alt+p",
+				"mac": "cmd+alt+p"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"typescript": "^2.5.3",
+		"vscode": "^1.1.6",
+		"mocha": "^4.0.1",
+		"@types/node": "^8.0.34",
+		"@types/mocha": "^2.2.43"
+	},
+	"__metadata": {
+		"id": "daf50268-95f0-4b11-85a8-ed822a13efb4",
+		"publisherId": "1ef9d8df-c98a-4abe-a918-372ad7a50e35",
+		"publisherDisplayName": "bukas",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": true,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1700177478175,
+		"preRelease": false
+	}
+}

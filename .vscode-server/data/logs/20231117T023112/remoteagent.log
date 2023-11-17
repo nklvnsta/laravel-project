@@ -1,0 +1,191 @@
+2023-11-17 02:31:12.163 [info] 
+
+
+
+
+2023-11-17 02:31:12.163 [info] Installing extensions...
+2023-11-17 02:31:12.163 [info] Extension host agent started.
+2023-11-17 02:31:12.163 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-11-17 02:31:12.174 [debug] ComputeTargetPlatform: linux-x64
+2023-11-17 02:31:12.203 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-11-17 02:31:12.213 [debug] ComputeTargetPlatform: linux-x64
+2023-11-17 02:31:12.338 [info] [127.0.0.1][63a29086][ManagementConnection] New connection established.
+2023-11-17 02:31:12.382 [info] Log level changed to info
+2023-11-17 02:31:12.574 [info] Installing extensions...
+2023-11-17 02:31:13.480 [info] [127.0.0.1][e1585f3e][ExtensionHostConnection] New connection established.
+2023-11-17 02:31:13.713 [info] [127.0.0.1][e1585f3e][ExtensionHostConnection] <12833> Launched Extension Host Process.
+2023-11-17 02:31:13.729 [info] Installing extension 'batisteo.vscode-django'...
+2023-11-17 02:31:13.731 [info] Getting Manifest... batisteo.vscode-django
+2023-11-17 02:31:13.779 [info] Installing extension 'bukas.projects'...
+2023-11-17 02:31:13.780 [info] Getting Manifest... bukas.projects
+2023-11-17 02:31:13.799 [info] Installing extension 'dbaeumer.vscode-eslint'...
+2023-11-17 02:31:13.806 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-11-17 02:31:13.829 [info] Installing extension 'glenn2223.live-sass'...
+2023-11-17 02:31:13.830 [info] Getting Manifest... glenn2223.live-sass
+2023-11-17 02:31:13.877 [info] Installing extension 'ms-toolsai.jupyter-keymap'...
+2023-11-17 02:31:13.878 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-11-17 02:31:13.903 [info] Installing extension 'ms-ceintl.vscode-language-pack-ru'...
+2023-11-17 02:31:13.904 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:13.908 [info] Installing extension 'mechatroner.rainbow-csv'...
+2023-11-17 02:31:13.909 [info] Getting Manifest... mechatroner.rainbow-csv
+2023-11-17 02:31:13.925 [info] Installing extension 'idleberg.electron-builder'...
+2023-11-17 02:31:13.926 [info] Getting Manifest... idleberg.electron-builder
+2023-11-17 02:31:13.940 [info] Installing extension 'kevinrose.vsc-python-indent'...
+2023-11-17 02:31:13.941 [info] Getting Manifest... kevinrose.vsc-python-indent
+2023-11-17 02:31:13.958 [info] Installing extension 'esbenp.prettier-vscode'...
+2023-11-17 02:31:13.958 [info] Getting Manifest... esbenp.prettier-vscode
+2023-11-17 02:31:14.030 [info] Installing extension 'njpwerner.autodocstring'...
+2023-11-17 02:31:14.031 [info] Getting Manifest... njpwerner.autodocstring
+2023-11-17 02:31:14.038 [info] Installing extension 'ms-toolsai.vscode-jupyter-slideshow'...
+2023-11-17 02:31:14.039 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:14.057 [info] Installing extension 'ms-toolsai.vscode-jupyter-cell-tags'...
+2023-11-17 02:31:14.065 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:14.071 [info] Installing extension 'vue.vscode-typescript-vue-plugin'...
+2023-11-17 02:31:14.071 [info] Getting Manifest... vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:14.099 [info] Installing extension 'stylelint.vscode-stylelint'...
+2023-11-17 02:31:14.099 [info] Getting Manifest... stylelint.vscode-stylelint
+2023-11-17 02:31:14.109 [info] Installing extension 'visualstudioexptteam.intellicode-api-usage-examples'...
+2023-11-17 02:31:14.111 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:14.132 [info] Installing extension 'ms-ceintl.vscode-language-pack-ru'...
+2023-11-17 02:31:14.142 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:14.146 [info] Installing extension 'wholroyd.jinja'...
+2023-11-17 02:31:14.147 [info] Getting Manifest... wholroyd.jinja
+2023-11-17 02:31:14.321 [info] Installing extension: batisteo.vscode-django
+2023-11-17 02:31:14.334 [info] Installing extension: glenn2223.live-sass
+2023-11-17 02:31:14.336 [info] Installing extension: bukas.projects
+2023-11-17 02:31:14.358 [info] Installing extension: dbaeumer.vscode-eslint
+2023-11-17 02:31:14.368 [info] Installing extension: idleberg.electron-builder
+2023-11-17 02:31:14.394 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-11-17 02:31:14.395 [info] Installing extension: esbenp.prettier-vscode
+2023-11-17 02:31:14.423 [info] Installing extension: mechatroner.rainbow-csv
+2023-11-17 02:31:14.430 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:14.431 [info] Installing extension: kevinrose.vsc-python-indent
+2023-11-17 02:31:14.433 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:14.455 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:14.505 [info] Installing extension: njpwerner.autodocstring
+2023-11-17 02:31:14.506 [info] Installing extension: vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:14.537 [info] Installing extension: stylelint.vscode-stylelint
+2023-11-17 02:31:14.543 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:14.546 [info] Installing extension: wholroyd.jinja
+2023-11-17 02:31:14.626 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:19.324 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.jupyter-keymap
+2023-11-17 02:31:19.411 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2023-11-17 02:31:19.429 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2023-11-17 02:31:19.438 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-11-17 02:31:19.449 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-11-17 02:31:19.451 [info] Extension 'ms-toolsai.jupyter-keymap' v1.1.2 was successfully installed.
+2023-11-17 02:31:19.560 [warning] Extension signature verification failed with error 'ENOENT': batisteo.vscode-django
+2023-11-17 02:31:19.695 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:19.872 [warning] Extension signature verification failed with error 'ENOENT': idleberg.electron-builder
+2023-11-17 02:31:20.024 [warning] Extension signature verification failed with error 'ENOENT': njpwerner.autodocstring
+2023-11-17 02:31:20.081 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5: ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:20.103 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-11-17 02:31:20.110 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:20.127 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-11-17 02:31:20.128 [info] Extension 'ms-toolsai.vscode-jupyter-slideshow' v0.1.5 was successfully installed.
+2023-11-17 02:31:20.596 [info] Extracted extension to file:///root/.vscode-server/extensions/idleberg.electron-builder-0.8.1: idleberg.electron-builder
+2023-11-17 02:31:20.672 [info] Renamed to /root/.vscode-server/extensions/idleberg.electron-builder-0.8.1
+2023-11-17 02:31:20.694 [warning] Extension signature verification failed with error 'ENOENT': ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:20.702 [info] Extracting extension completed. idleberg.electron-builder
+2023-11-17 02:31:20.764 [info] Extension installed successfully: idleberg.electron-builder
+2023-11-17 02:31:20.767 [info] Extension 'idleberg.electron-builder' v0.8.1 was successfully installed.
+2023-11-17 02:31:21.005 [warning] Extension signature verification failed with error 'ENOENT': bukas.projects
+2023-11-17 02:31:21.199 [warning] Extension signature verification failed with error 'ENOENT': glenn2223.live-sass
+2023-11-17 02:31:21.205 [warning] Extension signature verification failed with error 'ENOENT': kevinrose.vsc-python-indent
+2023-11-17 02:31:21.284 [info] Extracted extension to file:///root/.vscode-server/extensions/njpwerner.autodocstring-0.6.1: njpwerner.autodocstring
+2023-11-17 02:31:21.326 [info] Renamed to /root/.vscode-server/extensions/njpwerner.autodocstring-0.6.1
+2023-11-17 02:31:21.364 [info] Extracting extension completed. njpwerner.autodocstring
+2023-11-17 02:31:21.410 [warning] Extension signature verification failed with error 'ENOENT': stylelint.vscode-stylelint
+2023-11-17 02:31:21.439 [warning] Extension signature verification failed with error 'ENOENT': dbaeumer.vscode-eslint
+2023-11-17 02:31:21.440 [info] Extension installed successfully: njpwerner.autodocstring
+2023-11-17 02:31:21.442 [info] Extension 'njpwerner.autodocstring' v0.6.1 was successfully installed.
+2023-11-17 02:31:21.560 [warning] Extension signature verification failed with error 'ENOENT': esbenp.prettier-vscode
+2023-11-17 02:31:21.584 [warning] Extension signature verification failed with error 'ENOENT': mechatroner.rainbow-csv
+2023-11-17 02:31:21.634 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8: ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:22.255 [warning] Extension signature verification failed with error 'ENOENT': vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:22.255 [warning] Extension signature verification failed with error 'ENOENT': wholroyd.jinja
+2023-11-17 02:31:22.261 [info] Extracted extension to file:///root/.vscode-server/extensions/batisteo.vscode-django-1.14.0: batisteo.vscode-django
+2023-11-17 02:31:22.280 [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-11-17 02:31:22.298 [info] Renamed to /root/.vscode-server/extensions/batisteo.vscode-django-1.14.0
+2023-11-17 02:31:22.301 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:22.332 [info] Extracting extension completed. batisteo.vscode-django
+2023-11-17 02:31:22.354 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-11-17 02:31:22.355 [info] Extension 'ms-toolsai.vscode-jupyter-cell-tags' v0.1.8 was successfully installed.
+2023-11-17 02:31:22.423 [info] Extension installed successfully: batisteo.vscode-django
+2023-11-17 02:31:22.428 [info] Extension 'batisteo.vscode-django' v1.14.0 was successfully installed.
+2023-11-17 02:31:22.612 [info] Extracted extension to file:///root/.vscode-server/extensions/bukas.projects-0.0.9: bukas.projects
+2023-11-17 02:31:22.613 [warning] Extension signature verification failed with error 'ENOENT': visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:22.639 [warning] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:22.655 [info] Renamed to /root/.vscode-server/extensions/bukas.projects-0.0.9
+2023-11-17 02:31:22.672 [info] Extracted extension to file:///root/.vscode-server/extensions/wholroyd.jinja-0.0.8: wholroyd.jinja
+2023-11-17 02:31:22.721 [info] Extracting extension completed. bukas.projects
+2023-11-17 02:31:22.723 [info] Extracted extension to file:///root/.vscode-server/extensions/stylelint.vscode-stylelint-1.3.0: stylelint.vscode-stylelint
+2023-11-17 02:31:22.770 [info] Renamed to /root/.vscode-server/extensions/wholroyd.jinja-0.0.8
+2023-11-17 02:31:22.790 [info] Renamed to /root/.vscode-server/extensions/stylelint.vscode-stylelint-1.3.0
+2023-11-17 02:31:22.802 [info] Extension installed successfully: bukas.projects
+2023-11-17 02:31:22.803 [info] Extension 'bukas.projects' v0.0.9 was successfully installed.
+2023-11-17 02:31:22.806 [info] Extracting extension completed. wholroyd.jinja
+2023-11-17 02:31:22.807 [info] Extracted extension to file:///root/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.2: dbaeumer.vscode-eslint
+2023-11-17 02:31:22.843 [info] Extracting extension completed. stylelint.vscode-stylelint
+2023-11-17 02:31:22.858 [info] Renamed to /root/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.2
+2023-11-17 02:31:22.861 [info] Extension installed successfully: wholroyd.jinja
+2023-11-17 02:31:22.865 [info] Extension 'wholroyd.jinja' v0.0.8 was successfully installed.
+2023-11-17 02:31:22.887 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-11-17 02:31:22.922 [info] Extension installed successfully: stylelint.vscode-stylelint
+2023-11-17 02:31:22.924 [info] Extension 'stylelint.vscode-stylelint' v1.3.0 was successfully installed.
+2023-11-17 02:31:22.926 [info] Extracted extension to file:///root/.vscode-server/extensions/kevinrose.vsc-python-indent-1.18.0: kevinrose.vsc-python-indent
+2023-11-17 02:31:22.965 [info] Renamed to /root/.vscode-server/extensions/kevinrose.vsc-python-indent-1.18.0
+2023-11-17 02:31:22.978 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-11-17 02:31:22.980 [info] Extension 'dbaeumer.vscode-eslint' v2.4.2 was successfully installed.
+2023-11-17 02:31:22.984 [info] Extracting extension completed. kevinrose.vsc-python-indent
+2023-11-17 02:31:22.985 [info] Extracted extension to file:///root/.vscode-server/extensions/vue.vscode-typescript-vue-plugin-1.8.22: vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:23.023 [info] Extension installed successfully: kevinrose.vsc-python-indent
+2023-11-17 02:31:23.024 [info] Extension 'kevinrose.vsc-python-indent' v1.18.0 was successfully installed.
+2023-11-17 02:31:23.024 [info] Renamed to /root/.vscode-server/extensions/vue.vscode-typescript-vue-plugin-1.8.22
+2023-11-17 02:31:23.043 [info] Extracting extension completed. vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:23.081 [info] Extension installed successfully: vue.vscode-typescript-vue-plugin
+2023-11-17 02:31:23.082 [info] Extension 'vue.vscode-typescript-vue-plugin' v1.8.22 was successfully installed.
+2023-11-17 02:31:23.142 [info] Extracted extension to file:///root/.vscode-server/extensions/glenn2223.live-sass-6.1.1: glenn2223.live-sass
+2023-11-17 02:31:23.168 [info] Renamed to /root/.vscode-server/extensions/glenn2223.live-sass-6.1.1
+2023-11-17 02:31:23.181 [info] Extracting extension completed. glenn2223.live-sass
+2023-11-17 02:31:23.229 [info] Extension installed successfully: glenn2223.live-sass
+2023-11-17 02:31:23.230 [info] Extension 'glenn2223.live-sass' v6.1.1 was successfully installed.
+2023-11-17 02:31:23.384 [info] Extracted extension to file:///root/.vscode-server/extensions/mechatroner.rainbow-csv-3.8.0: mechatroner.rainbow-csv
+2023-11-17 02:31:23.402 [info] Renamed to /root/.vscode-server/extensions/mechatroner.rainbow-csv-3.8.0
+2023-11-17 02:31:23.407 [info] Extracting extension completed. mechatroner.rainbow-csv
+2023-11-17 02:31:23.428 [info] Extension installed successfully: mechatroner.rainbow-csv
+2023-11-17 02:31:23.431 [info] Extension 'mechatroner.rainbow-csv' v3.8.0 was successfully installed.
+2023-11-17 02:31:23.618 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.84.2023111509: ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:23.634 [info] Extracted extension to file:///root/.vscode-server/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-11-17 02:31:23.639 [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.84.2023111509
+2023-11-17 02:31:23.643 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:23.654 [info] Renamed to /root/.vscode-server/extensions/esbenp.prettier-vscode-10.1.0
+2023-11-17 02:31:23.655 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:23.657 [error] Unknown error while installing extension ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:23.657 [error] Error: Failed Installing Extensions: ms-ceintl.vscode-language-pack-ru
+    at d.installExtensions (/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:131:109)
+    at async y.q (/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:40430)
+    at async y.k (/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:39328)
+    at async y.scanExtensions (/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:39011)
+    at async u.call (/root/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/out/vs/server/node/server.main.js:168:42125)
+2023-11-17 02:31:23.757 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-11-17 02:31:23.843 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2023-11-17 02:31:23.843 [info] Extension 'ms-ceintl.vscode-language-pack-ru' v1.84.2023111509 was successfully installed.
+2023-11-17 02:31:23.851 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-11-17 02:31:23.854 [info] Extension 'esbenp.prettier-vscode' v10.1.0 was successfully installed.
+2023-11-17 02:31:24.072 [info] Extracted extension to file:///root/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:24.084 [info] Renamed to /root/.vscode-server/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.8
+2023-11-17 02:31:24.087 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:24.114 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-11-17 02:31:24.115 [info] Extension 'visualstudioexptteam.intellicode-api-usage-examples' v0.2.8 was successfully installed.
+2023-11-17 02:50:01.338 [info] [127.0.0.1][63a29086][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-17 02:50:01.443 [info] [127.0.0.1][e1585f3e][ExtensionHostConnection] <12833> Extension Host Process exited with code: 0, signal: null.
+2023-11-17 02:50:16.510 [info] [127.0.0.1][135a2710][ManagementConnection] New connection established.
+2023-11-17 02:50:17.451 [info] [127.0.0.1][d101475a][ExtensionHostConnection] New connection established.
+2023-11-17 02:50:17.466 [info] [127.0.0.1][d101475a][ExtensionHostConnection] <24974> Launched Extension Host Process.
+2023-11-17 03:17:45.792 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-11-17 03:17:45.799 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
